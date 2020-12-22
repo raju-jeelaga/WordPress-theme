@@ -476,3 +476,16 @@ a:hover, a:active {
 	outline: 0;
 }
 
+/** Main CSS**/
+.container{
+	width:1200px;
+	display: inline-block;
+	margin:0 auto;
+}
+.site-header{
+	background-color: #0073C6;
+	padding:10px 0px;
+}
+.smart-sticky-header{
+
+}
